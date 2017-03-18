@@ -1,0 +1,3 @@
+rootProject.name = 'tutorial_react_native'
+
+include ':app'
