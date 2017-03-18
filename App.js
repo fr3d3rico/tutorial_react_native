@@ -1,5 +1,4 @@
 import {AppRegistry} from 'react-native';
-import {StackNavigator} from 'react-navigation';
 
 import {StackNavigatorConfig} from './components/StackNavigatorConfig';
 
